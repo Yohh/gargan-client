@@ -8,7 +8,7 @@ export const BackButton = () => {
 
   return (
     <button
-      className="rounded py-1 px-2 bg-stone-600 hover:bg-neutral-200 text-neutral-200 hover:text-gray-800"
+      className="rounded py-1 px-2 bg-stone-600 hover:bg-neutral-300 text-neutral-200 hover:text-gray-800"
       onClick={() => navigate(-1)}
     >
       {t("back")}

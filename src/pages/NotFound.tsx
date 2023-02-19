@@ -7,8 +7,11 @@ export const NotFound = () => {
 
   return (
     <section className="notFound flex flex-col justify-center items-center h-screen w-screen">
+      <span className="mb-3 font-bold text-xl text-gray-800">
+        {t("somethingWentWrong")}
+      </span>
       <span className="mb-5 font-bold text-xl text-gray-800">
-        {`${t("somethingWentWrong")}, ${t("pageNotFound")}`}
+        {t("pageNotFound")}
       </span>
       <BackButton />
     </section>
