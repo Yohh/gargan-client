@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="68.653976"
+   height="109.71889"
+   viewBox="0 0 68.653977 109.71889"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/yoh/Images/gargan/favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.2305697"
+     inkscape:cx="25.523032"
+     inkscape:cy="49.80337"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1920"
+     inkscape:window-y="433"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g827">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2220"
+       originx="-0.00032428802"
+       originy="0.00014003934" />
+  </sodipodi:namedview>
+  <g
+     id="g827"
+     inkscape:label="g827"
+     transform="translate(-11.320379,-8.3059968)">
+    <path
+       id="path2634"
+       style="fill:#ff6600;fill-opacity:1;stroke-width:1.33333"
+       d="m 41.183594,109.71875 h 1.347656 c 6.656676,-0.0155 14.150248,-0.86192 19.669922,-2.45898 l 5.8125,-1.68165 0.363281,-24.941401 0.277344,-19.146485 v -5.796875 h -6.611328 -6.697266 v 20.511719 c 0,23.260321 0.612821,22.130722 -12,22.107422 C 24.604342,98.2779 13.398595,82.017676 13.513672,55.027344 c 0.08215,-19.266548 5.303542,-31.931406 16.263672,-39.441406 6.496741,-4.451641 17.90258,-5.048003 26.214844,-1.371094 3.497799,1.547243 6.824204,2.8125 7.392578,2.8125 1.003567,0 3.960937,-7.1732701 3.960937,-9.6074221 0,-1.920609 -10.685581,-6.0446739 -18.244141,-7.04101565 C 47.136339,0.11985753 45.198,-0.00492169 43.291016,0 24.856832,0.04757632 9.4516839,12.215247 3.0390625,32.361328 -1.0952235,45.349724 -0.997423,67.231737 3.25,79.583984 c 5.495409,15.981615 14.332137,25.184126 27.833984,28.988286 2.553731,0.71951 6.141516,1.08535 10.09961,1.14648 z"
+       transform="translate(11.320055,8.3061368)" />
+  </g>
+</svg>
